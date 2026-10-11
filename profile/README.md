@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/clawworker/install/main/assets/logo.png" alt="ClawWorker" width="140" />
+  <img src="https://raw.githubusercontent.com/commandlyne/install/main/assets/logo.png" alt="ClawWorker" width="140" />
 </p>
 
 <h1 align="center">ClawWorker</h1>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/clawworker/install">Install</a> &bull;
-  <a href="https://github.com/orgs/clawworker/discussions">Discussions</a> &bull;
-  <a href="https://github.com/clawworker/install/issues">Issues</a>
+  <a href="https://github.com/commandlyne/install">Install</a> &bull;
+  <a href="https://github.com/orgs/commandlyne/discussions">Discussions</a> &bull;
+  <a href="https://github.com/commandlyne/install/issues">Issues</a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ClawWorker is a **single-binary AI assistant** that deploys anywhere — your laptop, a cloud VM, a Raspberry Pi, or a Kubernetes cluster. It connects LLMs to messaging platforms, productivity tools, and a built-in Web UI, all from one lightweight process.
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/clawworker/install/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/commandlyne/install/main/install.sh | bash
 ```
 
 ---
@@ -120,7 +120,7 @@ Encrypted vault for secrets, tool execution policies, auth failover with key rot
 
 ```bash
 # Install (Linux & macOS)
-curl -fsSL https://raw.githubusercontent.com/clawworker/install/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/commandlyne/install/main/install.sh | bash
 
 # Configure
 clawworker onboard
@@ -130,7 +130,7 @@ clawworker gateway
 ```
 
 <p align="center">
-  <a href="https://github.com/clawworker/install"><strong>Installation Guide &rarr;</strong></a>
+  <a href="https://github.com/commandlyne/install"><strong>Installation Guide &rarr;</strong></a>
 </p>
 
 ---
